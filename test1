@@ -1,0 +1,3 @@
+import numpy as np
+a = np.max(-2,3)
+print(a)
